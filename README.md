@@ -23,3 +23,6 @@ This is a classic Space Shooter Game developed using HTML, CSS, and JavaScript. 
 
     -- Avoid enemy fire and destroy as many enemies as possible
 
+![](https://github.com/vidusha-praveen/Space-Shooter-Game/blob/b121a6bea5e95e71260846ce80dadebeb65f3a3e/images/Screenshot%201.png)
+
+![](https://github.com/vidusha-praveen/Space-Shooter-Game/blob/b121a6bea5e95e71260846ce80dadebeb65f3a3e/images/Screenshot%202.png)
